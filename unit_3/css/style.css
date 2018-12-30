@@ -1,0 +1,28 @@
+body {
+}
+
+h1 {
+	color: rgb(255,0,96);
+	text-align: center;
+	font-variant-caps: unicase;
+	font-family: "Courier New";
+}
+
+#slogan {
+	font-style: italic;
+	text-align: center;
+	color: #30E3DE;
+	font-family: helvetica;
+	font-weight: bolder;
+}
+
+p2 {
+	color: gray;
+	font-family: helvetica;
+	text-align: center;
+}
+
+p3 {
+	text-align: center;
+	font-weight: bold;
+}
